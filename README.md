@@ -1,2 +1,2 @@
 # scienceofdata
-My evolution from a data spectator to a Data pioneer
+My evolution from a Data Spectator to a Data Pioneer
