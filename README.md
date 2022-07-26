@@ -12,7 +12,8 @@ repository for data [here](https://video.udacity-data.com/topher/2020/October/5f
 
 Numpy, pandas, matplotlib, seaborn, calendar, time, math & datetime
 
-## Noteboook entitled 
+## Noteboook entitled
+Ridershipexploration
 
 ## Summary of Findings
 
@@ -46,3 +47,8 @@ riding in the Morning and Afternoon.
 remained consistent with short ridership
 3.	Males were dominate at 71% of total users and they took the most rides at
 17:00 Although females peaked at the same time
+
+
+## Blogpost Bikeshare Ridership Exploration
+
+https://medium.com/@melthompsonb/bikeshare-ridership-exploration-b6885bc07c3a
