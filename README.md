@@ -8,6 +8,9 @@ users to rent bikes based on their needs with the ability to
 subscribe or take advantage of one-time usage.
 repository for data [here](https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv),
 
+## Libraries used
+
+Numpy, pandas, matplotlib, seaborn, calendar, time, math & datetime
 
 ## Summary of Findings
 
