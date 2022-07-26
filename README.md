@@ -1,12 +1,15 @@
-Fordgobike Data Exploration
+# Fordgobike Data Exploration
 
-## Dataset
+## Overview 
 
-TThis is the exploration of February 2019 user data for fordgobike located in
+This is the exploration of February 2019 user data for fordgobike located in
 the greater San Francisco Bay Area. Fordgobike is a bikesharing system allowing
 users to rent bikes based on their needs with the ability to
 subscribe or take advantage of one-time usage.
-repository for data [here](https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv),
+
+## Data
+
+Repository for data [here](https://video.udacity-data.com/topher/2020/October/5f91cf38_201902-fordgobike-tripdata/201902-fordgobike-tripdata.csv),
 
 ## Libraries used
 
